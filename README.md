@@ -6,7 +6,8 @@ This project analyzes employee lead generation performance data using Power BI a
 
 - `Lead Generation Analysis Report.pdf`: The report
 - `Dashboard.png` / `dashboard.pbix`: Power BI dashboard visuals
-- `data.xlsx`: Raw or cleaned data used for analysis
+- `AssociateData.xlsx`: Raw data used for analysis
+- `Cleaned_AssociateData.xlsx`:cleaned data used for analysis
 
 ## Key Analyses
 
