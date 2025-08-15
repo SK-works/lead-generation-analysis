@@ -14,7 +14,6 @@ This project analyzes employee lead generation performance data using Power BI a
 - Lead generation efficiency and variability
 - Time-per-lead trends and predictive modeling
 - Impact of team reviews and day-type comparisons
-- Data-driven recommendations for performance improvement
 
 ## Tools Used
 
